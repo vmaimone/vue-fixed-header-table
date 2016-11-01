@@ -1,5 +1,5 @@
 {
-  "name": "fixed-header-table",
+  "name": "@vmaimone/fixed-header-table",
   "version": "0.0.1",
   "description": "inspired by the 'freeze column headers' feature in ms excel",
   "main": "index.js",
